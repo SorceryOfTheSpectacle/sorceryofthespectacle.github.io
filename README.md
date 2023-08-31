@@ -1,6 +1,6 @@
 # sorceryofthespectacle.github.io
 
-Telegram Chatroom: https://t.me/sotslobby
+[Telegram Chatroom Invite Link](https://t.me/sotslobby)
 
 ## Zummi's Archive
 
