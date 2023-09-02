@@ -1,6 +1,19 @@
 # sorceryofthespectacle.github.io
 
-[Telegram Chatroom Invite Link](https://t.me/sotslobby)
+A place for philosophical discussion of what's on most thinking minds.
+
+We exist in a culture of narrative and media that increasingly, willfully combines agency-robbing fantasy mythos with instantaneous technological dissemination—a self-mutating proteum of semantics: *the spectacle*.
+
+If confused, please  [stick around](http://www.reddit.com/tb/2ncoxs) or [hover here](https://www.reddit.com/r/SubredditDrama/comments/3dm0sp?context=10000 "We live in a culture that uses media to tell us how to live. Our culture purposefully creates fantasies that rob us of our freedom, and this is more effective with technology like the internet. This phenomenon is a self modifying cluster of symbols and signs that constantly change their meaning.
+--: Unpacked By /u/Nethodsod"). Post [questions](https://www.reddit.com/r/sorceryofthespectacle/wiki/index/what-is-this-subreddit-about), read or watch some of the things below, and soak in the language here.
+
+# Websites Links
+
+* [https://www.reddit.com/r/sorceryofthespectacle/](https://www.reddit.com/r/sorceryofthespectacle/)
+
+# Social Media / Instant Messaging
+
+* [Telegram Chatroom Invite Link](https://t.me/sotslobby)
 
 ## Zummi's Archive
 
