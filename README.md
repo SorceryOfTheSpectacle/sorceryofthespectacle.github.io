@@ -1,4 +1,4 @@
-# [sorceryofthespectacle.github.io](sorceryofthespectacle.github.io)
+# [sorceryofthespectacle.github.io](https://sorceryofthespectacle.github.io)
 
 A place for philosophical discussion of what's on most thinking minds.
 
