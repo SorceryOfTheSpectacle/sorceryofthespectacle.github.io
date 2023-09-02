@@ -8,7 +8,9 @@
 
 ## Backup of SotS subreddit styling
 
-[Find it here](https://github.com/mofosyne/subreddit-style-sheet-backup)
+[Stylesheet Backup](https://github.com/SorceryOfTheSpectacle/subreddit-style-sheet-backup)
+
+* The intent of this backup is as a reference point when copying this design off to some other fedverse if needed.
 
 ## Dashboard For AO Devs
 
