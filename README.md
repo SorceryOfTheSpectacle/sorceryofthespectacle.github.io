@@ -27,13 +27,21 @@ If confused, please  [stick around](http://www.reddit.com/tb/2ncoxs) or [hover h
 
 ## Dashboard For AO Devs
 
-### Getting started
+Current Autonomous Organisation (AO) Development Effort
 
-Anders from andersaamodt.com is trying to figure out creating an Autonomous Organisation POC at [this repo](https://github.com/coalition-of-invisible-colleges/ao-react/tree/main)... to contribute [Insert Getting Started Instructions here]
+* [ao-react](https://github.com/coalition-of-invisible-colleges/ao-react/) : Creating a frontend for the AO software
 
-Maybe read [the api doc first](https://github.com/coalition-of-invisible-colleges/ao-react/blob/main/API.md)
+* ao-bash: A set of bash scripts to install and configure AO instances, install the AO suite of free software, and enhance your UNIX system.
 
-#### FAQ
+* ao-mini: Our reddit alternative. The newest version of the AO web server, ao-mini is a minimalist NodeJS server that passes most logic through to ao-bash scripts. (To be clear: ao-bash is the best way to install ao-mini.)
+
+<!-- unsure if this is really active yet
+* ao-mud: Included with ao-bash, ao-mud is a Multi-User Dungeon, or M.U.D., a text-based adventure that takes place in the terminal. This adds a narrative tutorial layer to UNIX that is multiplayer and also aids memory by turning folders into rooms that can be decorated as locations.
+-->
+
+### FAQ regarding ao react
 
 - Does it use Activity Pub?
   - Anders: I would like it to support this protocol but there are a few other more fundamental problems to solve first before we can add it
+- Why Flatfile?
+  - Anders: it's transparent, portable, we don't have to make an import/export feature. cards are still trapped in previous versions of AO databases
