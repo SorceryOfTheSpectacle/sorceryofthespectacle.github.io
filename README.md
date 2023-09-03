@@ -45,3 +45,14 @@ Current Autonomous Organisation (AO) Development Effort
   - Anders: I would like it to support this protocol but there are a few other more fundamental problems to solve first before we can add it
 - Why Flatfile?
   - Anders: it's transparent, portable, we don't have to make an import/export feature. cards are still trapped in previous versions of AO databases
+ 
+-----
+
+# Want to help improve this page?
+
+This is somewhat independently maintained from many different projects in the SotS community so we may not be totally aware of all the goings on.
+This of this as the community's linktree.
+
+To give tips on missing content, go to our issue page and [raise a ticket](https://github.com/SorceryOfTheSpectacle/sorceryofthespectacle.github.io/issues) and if possible also give us a PR so we can add it in easier.
+
+Also this website is a bit lacking in style, so would be appreciated if someone can pretty it up as well!
